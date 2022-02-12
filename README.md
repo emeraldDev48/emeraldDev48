@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emeraldDev48
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning assembly and C
+- 🌱 I’m currently learning web developpment
 - 📫 How to reach me: alexandru@popescu.is
 
 <!---
